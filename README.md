@@ -1,4 +1,4 @@
-The ANSI-colors is a collection of command line utilities with support of syntax/semantic highlighting based on ANSI colors:
+The *ANSI-colors* is a collection of command line utilities with support of syntax/semantic highlighting based on ANSI colors:
 - ansi_prompt.bat: ANSI color configurator of Windows CMD.exe prompt
 - ansi_redactor.py: Python script for indexation, ANSI color highlighting and redacting of text streams
 
